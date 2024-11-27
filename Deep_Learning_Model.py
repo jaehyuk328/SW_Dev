@@ -11,7 +11,7 @@ from ultralytics import YOLO
 # Load a COCO-pretrained YOLO11n model
 model = YOLO("yolo11n.pt")
 
-folder_path = r"D:\03_Lectures\2024_2nd\Lecture_Materials\SW_Dev\SW_Dev\test_folder\Image_dataset"
+folder_path = r"C:\Users\cic\Desktop\Local_Repo\Image_dataset"
 file_names = [f for f in os.listdir(folder_path) if f.endswith(('.jpg', '.png'))]
 
 results = model(folder_path+'\\'+file_names[0])
