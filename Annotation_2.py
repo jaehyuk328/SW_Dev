@@ -88,7 +88,7 @@ def segment_image(image_path):
 
 # Main function to process multiple images
 if __name__ == "__main__":
-    PathNames = r"C:\Users\cic\Desktop\Local_Repo\Dataset"
+    PathNames = r"C:\Users\cic\Desktop\Local_Repo\Image_dataset"
     FileNames = [f for f in os.listdir(PathNames) if f.endswith(('jpg', 'png'))]
 
     for file_name in FileNames:
