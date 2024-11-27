@@ -103,3 +103,141 @@ x=111, y=325, w=53, h=63
 x=434, y=271, w=69, h=118
 Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002532.jpg
 x=143, y=279, w=148, h=205
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000139.jpg
+x=10, y=41, w=167, h=83
+x=10, y=168, w=144, h=83
+x=213, y=61, w=63, h=147
+x=310, y=84, w=52, h=127
+x=384, y=105, w=41, h=111
+x=387, y=172, w=13, h=36
+x=432, y=157, w=39, h=137
+x=551, y=255, w=55, h=149
+x=169, y=229, w=20, h=40
+x=296, y=219, w=23, h=5
+x=361, y=223, w=53, h=106
+x=409, y=226, w=41, h=88
+x=-2, y=275, w=135, h=59
+x=481, y=142, w=44, h=28
+x=447, y=119, w=17, h=19
+x=474, y=223, w=20, h=70
+x=514, y=221, w=27, h=63
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000632.jpg
+x=257, y=25, w=142, h=220
+x=86, y=91, w=110, h=109
+x=112, y=231, w=118, h=99
+x=351, y=216, w=72, h=133
+x=420, y=40, w=138, h=322
+x=487, y=306, w=73, h=74
+x=554, y=2, w=64, h=281
+x=446, y=13, w=74, h=28
+x=250, y=263, w=100, h=65
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000785.jpg
+x=208, y=394, w=415, h=13
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000785.jpg
+x=268, y=22, w=262, h=368
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000872.jpg
+x=279, y=111, w=164, h=457
+x=162, y=40, w=181, h=564
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000000885.jpg
+x=269, y=191, w=163, h=222
+x=296, y=69, w=128, h=192
+x=584, y=23, w=74, h=240
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000001000.jpg
+x=49, y=180, w=60, h=238
+x=127, y=136, w=72, h=240
+x=187, y=118, w=88, h=304
+x=212, y=181, w=69, h=258
+x=268, y=101, w=94, h=324
+x=328, y=158, w=84, h=328
+x=394, y=163, w=76, h=285
+x=422, y=212, w=112, h=280
+x=517, y=183, w=114, h=306
+x=437, y=94, w=55, h=71
+x=410, y=102, w=41, h=62
+x=356, y=108, w=57, h=53
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000001268.jpg
+x=501, y=67, w=138, h=378
+x=406, y=190, w=74, h=109
+x=33, y=195, w=63, h=98
+x=4, y=200, w=22, h=96
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000001296.jpg
+x=3, y=8, w=417, h=626
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000001353.jpg
+x=80, y=226, w=98, h=175
+x=172, y=218, w=120, h=195
+x=140, y=176, w=72, h=63
+x=144, y=131, w=72, h=49
+x=224, y=135, w=64, h=70
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000001490.jpg
+x=450, y=98, w=71, h=149
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002006.jpg
+x=300, y=183, w=83, h=64
+x=20, y=233, w=53, h=135
+x=6, y=94, w=579, h=298
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002153.jpg
+x=176, y=-8, w=84, h=127
+x=386, y=200, w=59, h=214
+x=295, y=275, w=200, h=168
+x=290, y=291, w=102, h=142
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002261.jpg
+x=259, y=129, w=154, h=165
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002299.jpg
+x=63, y=34, w=51, h=86
+x=123, y=33, w=45, h=78
+x=171, y=28, w=45, h=89
+x=221, y=23, w=39, h=85
+x=270, y=24, w=42, h=85
+x=315, y=26, w=37, h=85
+x=354, y=28, w=39, h=73
+x=400, y=30, w=47, h=64
+x=463, y=92, w=26, h=175
+x=410, y=83, w=39, h=51
+x=377, y=84, w=31, h=58
+x=338, y=82, w=28, h=62
+x=292, y=80, w=28, h=55
+x=249, y=73, w=32, h=61
+x=210, y=91, w=27, h=49
+x=157, y=94, w=35, h=39
+x=112, y=90, w=31, h=53
+x=54, y=83, w=31, h=47
+x=15, y=94, w=34, h=32
+x=10, y=135, w=32, h=144
+x=46, y=127, w=29, h=142
+x=84, y=126, w=26, h=94
+x=75, y=195, w=50, h=108
+x=121, y=124, w=25, h=92
+x=148, y=126, w=30, h=98
+x=147, y=198, w=51, h=104
+x=192, y=121, w=32, h=91
+x=228, y=126, w=26, h=76
+x=257, y=123, w=25, h=79
+x=294, y=120, w=30, h=82
+x=328, y=125, w=34, h=77
+x=355, y=131, w=36, h=76
+x=398, y=132, w=35, h=77
+x=438, y=130, w=24, h=75
+x=211, y=191, w=46, h=99
+x=262, y=196, w=51, h=100
+x=322, y=188, w=54, h=109
+x=381, y=189, w=58, h=114
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002473.jpg
+x=232, y=88, w=152, h=189
+x=104, y=325, w=49, h=63
+x=29, y=313, w=47, h=50
+x=442, y=261, w=69, h=126
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002532.jpg
+x=164, y=303, w=131, h=174
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000002592.jpg
+x=216, y=29, w=207, h=222
+x=18, y=203, w=603, h=126
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000003156.jpg
+x=4, y=27, w=358, h=602
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000003255.jpg
+x=234, y=313, w=20, h=51
+x=260, y=311, w=5, h=49
+x=276, y=312, w=13, h=49
+x=292, y=311, w=21, h=43
+x=6, y=5, w=604, h=231
+Image: C:\Users\cic\Desktop\Local_Repo\Image_dataset\000000004395.jpg
+x=96, y=2, w=255, h=274
+x=4, y=-10, w=417, h=644
